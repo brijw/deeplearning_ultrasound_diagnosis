@@ -6,6 +6,3 @@
 
 The folder for trial notebooks should not be used and was just code based on examples from tensorflow website in order to understand the workings of neural networks,
 with special regard to image classification.
-
-
-File labeled depthcon was used for the final model
