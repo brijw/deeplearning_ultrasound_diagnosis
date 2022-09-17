@@ -1,0 +1,24 @@
+Classification Report for Test Data
+
+              precision    recall  f1-score   support
+
+           0       0.98      0.91      0.94        56
+           1       0.91      0.98      0.95        54
+
+    accuracy                           0.95       110
+   macro avg       0.95      0.95      0.95       110
+weighted avg       0.95      0.95      0.95       110
+
+--------------------------------------------------------------------------
+Recall on Test Data:  0.9815
+Specificity on Test Data:  0.9107
+Accuracy on Test Data:  0.9455
+Precision on Test Data:  0.9138
+F1 Score Test Data:  0.9464
+--------------------------------------------------------------------------
+
+
+Legend:
+0: Normal
+
+1: Sick

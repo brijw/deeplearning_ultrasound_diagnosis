@@ -1,0 +1,23 @@
+Classification Report for Dataset2
+
+              precision    recall  f1-score   support
+
+           0       0.33      0.05      0.09       112
+           1       0.49      0.89      0.63       112
+
+    accuracy                           0.47       224
+   macro avg       0.41      0.47      0.36       224
+weighted avg       0.41      0.47      0.36       224
+
+--------------------------------------------------------------------------
+Recall on Test Dataset2:  0.8929
+Specificity on Dataset2:  0.0536
+Accuracy on Dataset2:  0.4732
+Precision on Dataset2:  0.4854
+F1 Score Dataset2:  0.6289
+--------------------------------------------------------------------------
+
+Legend:
+0: Normal
+
+1: Sick
